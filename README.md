@@ -19,6 +19,8 @@ But I also use languages and tools in my projects:
 &nbsp;
 <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
 &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" height="35px"/> 
+&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="35px"/>
 &nbsp;
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
@@ -37,11 +39,12 @@ But I also use languages and tools in my projects:
 
 :mortar_board: I am a technologist in Systems Analysis and Development.
 
-I also developed projects with C #, Android, SQL Server, Python and others. I like design architecture, writing clean code and applying good practices.
+I also developed projects with C #, Java, Android, SQL Server, Python and others. I like design architecture, writing clean code and applying good practices.
 
 The only certainty I have is that learning is an endless road and I want to continue on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives. :grin:
 
-![Renan's github stats](https://github-readme-stats.vercel.app/api?username=renanflow&show_icons=true&count_private=true&theme=bear)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanflow&layout=compact)](https://github.com/renanflow/github-readme-stats)
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/renanflow/" target="_blank">
