@@ -47,7 +47,7 @@ And delving into the technologies:
 
 :mortar_board: I am a technologist in Systems Analysis and Development.
 
-I also developed projects with C #, Java, Android, SQL Server, Python and others. I like design architecture, writing clean code and applying good practices.
+I also developed projects with C#, Java, Android, SQL Server, Python and others. I like design architecture, writing clean code and applying good practices.
 
 The only certainty I have is that learning is an endless road and I want to continue on it. So, I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives. :grin:
 
